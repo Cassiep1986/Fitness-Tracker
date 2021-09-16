@@ -1,4 +1,4 @@
-# Nosql-Workout-Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+# Fitness Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Description
 This application enables the user to keep track of exercises preformed and displays a graphical representation of daily workouts.
@@ -12,7 +12,7 @@ This application enables the user to keep track of exercises preformed and displ
 - [Questions](#Questions)
 
 ## Installation
-This application has been deployed to the following [link](https://my-nosql-fitness-tracker.herokuapp.com/).
+This application has been deployed to the following link: https://my-nosql-fitness-tracker.herokuapp.com/.
 
 ## Usage
 
@@ -24,7 +24,7 @@ The following animation demonstrates functionality of this application:
 ## License
 
 This application is covered under a MIT license. 
-To learn more about this license, please visit this [site](https://choosealicense.com/licenses/mit/).
+To learn more about this license, please visit this site: https://choosealicense.com/licenses/mit/.
 
 ## Contributing
 To contribute to this repo, please contact me on GITHUB or by email (Link below).
