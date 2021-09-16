@@ -31,5 +31,6 @@ To contribute to this repo, please contact me on GITHUB or by email (Links below
 ## Questions
 Additional information for this application can be found on my [github](https://www.github.com/cassiep1986?tab=repositories/).
 
-For additonal questions you can contact me by email at cassie1986@gmail.com by clicking [here](mailto:cassiep1986@gmail.com).
+For questions, you can contact me by email at cassie1986@gmail.com by clicking [here](mailto:cassiep1986@gmail.com).
+
 
