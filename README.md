@@ -12,7 +12,7 @@ This application enables the user to keep track of exercises preformed and displ
 - [Questions](#Questions)
 
 ## Installation
-This application has been deployed to the following link: https://my-nosql-fitness-tracker.herokuapp.com/.
+This application has been deployed to the following link: [https://my-nosql-fitness-tracker.herokuapp.com/](https://my-nosql-fitness-tracker.herokuapp.com/).
 
 ## Usage
 
@@ -20,17 +20,16 @@ The following animation demonstrates functionality of this application:
 
 ![Demo Video](./Fitness_Tracker_Demo.gif)
 
-
 ## License
 
 This application is covered under a MIT license. 
-To learn more about this license, please visit this site: https://choosealicense.com/licenses/mit/.
+To learn more about this license, please visit the following site: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
 
 ## Contributing
-To contribute to this repo, please contact me on GITHUB or by email (Link below).
+To contribute to this repo, please contact me on GITHUB or by email (Links below).
 
 ## Questions
 Additional information for this application can be found on my [github](https://www.github.com/cassiep1986?tab=repositories/).
 
-For additonal questions you can contact me by [email](mailto:cassiep1986@gmail.com).
+For additonal questions you can contact me by email at cassie1986@gmail.com by clicking [here](mailto:cassiep1986@gmail.com).
 
