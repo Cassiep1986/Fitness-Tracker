@@ -30,7 +30,7 @@ To learn more about this license, please visit this site: https://choosealicense
 To contribute to this repo, please contact me on GITHUB or by email (Link below).
 
 ## Questions
-This application can be found on my [github](https://www.github.com/cassiep1986?tab=repositories/).
+Additional information for this application can be found on my [github](https://www.github.com/cassiep1986?tab=repositories/).
 
 For additonal questions you can contact me by [email](mailto:cassiep1986@gmail.com).
 
