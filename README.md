@@ -12,7 +12,7 @@ This application enables the user to keep track of exercises preformed and displ
 - [Questions](#Questions)
 
 ## Installation
-This application has been deployed to the following link [(https://my-nosql-fitness-tracker.herokuapp.com/)].
+This application has been deployed to the following link: https://my-nosql-fitness-tracker.herokuapp.com/).
 
 ## Usage
 
